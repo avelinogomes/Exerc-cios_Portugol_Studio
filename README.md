@@ -1,6 +1,6 @@
 <h1>Exercícios Portugol Studio</h1>
 
-<h2>Aluno: Raimundo Avelino Gomes Lima / Turma de ADS S1 2024 / Prof. Welligton Ribeiro Menezes / Faculdade Princesa do Oeste - Crateús-CE</h2>
+<h3>Aluno: Raimundo Avelino Gomes Lima / Turma de ADS S1 2024 / Prof. Welligton Ribeiro Menezes / Faculdade Princesa do Oeste - Crateús-CE</h3>
 
 1. Crie um programa que pergunte a um aluno ou aluna o seu nome, a idade e altura. Depois de obter esses valores, apresente na tela os dados solicitados.
 
