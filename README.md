@@ -1,4 +1,4 @@
-<h1>Exercícios Portugol Studio<h1>
+<h1>Exercícios Portugol Studio</h1>
 
 Crie um programa que pergunte a um aluno ou aluna o seu nome, a idade e altura. Depois de obter esses valores, apresente na tela os dados solicitados.
 
